@@ -1,0 +1,6 @@
+c:\users\emir9\documents\visual studio 2015\Projects\KargoAracHızTakip\KargoAracHızTakip\bin\Debug\KargoAracHızTakip.exe.config
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\KargoAracHızTakip\KargoAracHızTakip\obj\Debug\KargoAracHızTakip.csprojResolveAssemblyReference.cache
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\KargoAracHızTakip\KargoAracHızTakip\bin\Debug\KargoAracHızTakip.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\KargoAracHızTakip\KargoAracHızTakip\bin\Debug\KargoAracHızTakip.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\KargoAracHızTakip\KargoAracHızTakip\obj\Debug\KargoAracHızTakip.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\KargoAracHızTakip\KargoAracHızTakip\obj\Debug\KargoAracHızTakip.pdb
